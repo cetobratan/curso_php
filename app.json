@@ -1,0 +1,13 @@
+{
+  "name": "curso_php",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
